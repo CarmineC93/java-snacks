@@ -15,5 +15,7 @@ public class EvenOdd {
         }else{
             System.out.println(number+1);
         }
+
+        scan.close();
     }
 }
